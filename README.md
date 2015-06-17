@@ -1,0 +1,2 @@
+# WeatherBox
+这是一款用于查询全国各地天气状况的小项目.主要用来熟悉android 开发流程的巩固android基础知识
